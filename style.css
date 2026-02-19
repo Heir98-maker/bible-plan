@@ -1,0 +1,40 @@
+html{
+    background-color: blue;
+}
+h1{
+    color: firebrick;
+    text-align: center;
+    background-image: url(bible\ image.webp);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    animation: annimate 20s linear infinite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  background-image: url(bble.jpeg);
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    animation: annimate 20s linear infinite;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+hr{
+    color: black;
+}
+div.text{
+    height: 150px;
+    width: 200px;
+    margin-left: 320px;
+    border: 5px solid ;
+    p{
+        margin: 0 0 ;
+        margin-left:5px;
+    }
+}
+p .text{
+    margin: 200px;
+}
+div.book{
+    text-align: center;
+}
